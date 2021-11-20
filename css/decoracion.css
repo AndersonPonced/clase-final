@@ -1,0 +1,158 @@
+main {
+  height: 30px;
+  background-color: green;
+}
+
+
+h4,p {color:white;}
+
+nav {float:none;
+margin: 1px;
+  height: 100px;
+}
+
+
+.Venezuela {
+  padding: 10px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  border: 1px solid #1f53c5;
+  color: black;
+  margin: 10px 0;
+  background-color: #C2C1C1;
+  text-align: center;
+  top: 100%;
+  float: right;
+
+
+}
+
+.pai {
+
+}
+
+.logoss {
+  float: right;
+}
+
+.logo {
+
+  float: left;
+}
+
+
+.tips {
+  padding: 10px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  border: 1px solid #1f53c5;
+  color: black;
+  margin: 10px 0;
+  background-color: #C2C1C1;
+  text-align: center;
+  top: 100000px;
+  float:right;
+
+}
+
+
+
+.id {
+
+  height: auto;
+}
+
+
+
+header {
+
+
+}
+
+.ins {
+ height: 163px;
+
+}
+
+
+h2 {
+  font-size: 20px;
+
+}
+
+header .mini {
+  height: 700px;
+}
+
+footer  {
+
+   background-color: #1b1b1b;
+   width: 1340px;
+   height: 300px;
+
+}
+
+.turi {
+
+  align-items: left;
+}
+
+
+aside {
+  background-color: #00BFFF;
+}
+
+section {
+  height: 1000px;
+}
+
+
+.YouTube{
+
+  float: left;
+  align-items: center;
+}
+
+.YouTube1{
+
+  float: right;
+  align-items: center;
+
+}
+
+
+
+
+
+/*Card*/
+.card {
+  margin: 22px;
+  float: left;
+  align-items: left;
+  border: 1px solid black;
+}
+
+
+.card:hover {
+
+}
+
+.avion {
+
+  align-items: center;
+}
+
+.card {
+
+  float: right;
+  align-items: left;
+border: 1px solid black;
+
+
+}
+.card2 {
+
+  float: left;
+  align-items: left;
+  border: 1px solid black;
+}

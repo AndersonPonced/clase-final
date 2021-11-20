@@ -1,0 +1,15 @@
+.logo {
+ position: fixed;
+ left: 1px;
+ top: 10px;
+}
+
+
+body {
+  background-color: red;
+}
+
+h1 {
+
+  text-align: center;
+}
